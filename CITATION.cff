@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite as below."
+authors:
+  - family-names: "Frankel"
+    given-names: "Guy"
+    orcid: 0000-0003-4145-0238
+  - family-names: "Baltiansky"
+    given-names: "Lior"
+    orcid: 0000-0003-3870-1788
+  - family-names: "Feinerman"
+    given-names: "Ofer"
+    orcid:
+title: "Food dissemination agent-based models"
+version: 1.0.0
+date-released: 2022-11-30
+url: "https://github.com/guyguyguyguyguyguyguy/ant-foraging-abms"
+
